@@ -1,0 +1,43 @@
+Q3
+unaty Operator	              Explanation
+
+
+Unary plus (+)	             Tries to convert the operand into a number
+
+Unary negation (-)	     Tries to convert the operand into a number and negates after
+
+Increment (++)	             Adds one to its operand
+
+Decrement (--)	             Decrements by one from its operand
+
+Logical NOT (!)              Converts to boolean value then negates it
+
+Bitwise NOT (~)	             Inverts all the bits in the operand and returns a number
+
+typeof	                     Returns a string which is the type of the operand
+
+delete	                     Deletes specific index of an array or specific property of an object
+
+void	                      Discards a return value of an expression.
+
+
+
+Binary Operator                        Explanation
+
+&	AND	                   	Sets each bit to 1 if both bits are 1
+|	OR	                 	Sets each bit to 1 if one of two bits is 1
+^	XOR	                 	Sets each bit to 1 if only one of two bits is 1
+~	NOT	                  	Inverts all the bits
+<<	Zero fill left shift	   	Shifts left by pushing zeros in from the right and let the leftmost bits fall off
+>>	Signed right shift	  	Shifts right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off
+>>>	Zero fill right shift	    	Shifts right by pushing zeros in from the left, and let the rightmost bits fall off
+
+
+
+
+
+
+
+
+
+

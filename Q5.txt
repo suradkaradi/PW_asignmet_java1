@@ -1,0 +1,19 @@
+JavaScript comments are used to explain the code to make it more readable. It can be used to prevent the execution of a section of code if necessary. JavaScript comments are ignored while the compiler executes the code.
+
+We can use // or /*…*/ to change the JavaScript code execution using comments. JavaScript Comments are used to prevent code execution and are considered suitable for testing the code.
+
+Single Line Comments:
+A single-line comment in JavaScript is denoted by two forward slashes (//)
+
+ex. 
+
+	//  A single line comment
+
+
+Multi-line Comments
+A multiline comment in JavaScript is a way to include comments that span multiple lines in the source code. /* … */ 
+
+ex.
+	/* It is multi line comment.  
+	It will not be displayed upon 
+	execution of this code */ 

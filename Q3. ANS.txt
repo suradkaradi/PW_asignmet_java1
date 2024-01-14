@@ -1,0 +1,56 @@
+1) Number
+Number data type in javascript can be used to hold decimal values as well as values without decimals.
+
+ex.
+	let x = 250;
+	let y = 40.5;
+	console.log("Value of x=" + x);
+	console.log("Value of y=" + y);
+
+2) String
+The string data type in JavaScript represents a sequence of characters that are surrounded by single or double quotes.
+
+ex.
+	let str = 'Hello All';
+	let str1 = "Welcome to my new house";
+	console.log("Value of str=" + str);
+	console.log("Value of str1=" + str1);
+
+3) Undefined
+The meaning of undefined is ‘value is not assigned’.
+
+ex.
+	console.log("Value of x=" + x);
+
+4) Boolean
+The boolean data type can accept only two values i.e. true and false.
+
+ex.
+	console.log("value of bool=" + bool);
+
+5) Null
+This data type can hold only one possible value that is null.
+
+ex.
+	let x = null;
+    console.log("Value of x=" + x);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

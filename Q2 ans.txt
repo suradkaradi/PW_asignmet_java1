@@ -1,0 +1,9 @@
+HTML:- 1) HTML (Hypertext Markup Language) is a markup language used for creating static web pages.
+	2) HTML is used to define the structure and content of a web page.
+	3) HTML is declarative and does not have the ability to perform logic or make decisions.
+	4) HTML consists of tags surrounded by angle brackets.
+
+Javascript :- 1) JavaScript is a programming language used for creating interactive and dynamic web pages.
+	      2) JavaScript is used to add interactivity, modify the content and styling of a web page, and handle user events.
+	      3)JavaScript is a scripting language and can perform logic, make decisions, and manipulate the HTML DOM.
+	      4) JavaScript is written in a script and uses syntax similar to other programming languages.

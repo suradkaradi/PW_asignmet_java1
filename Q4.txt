@@ -1,0 +1,11 @@
+Operator precedence refers to the priority given to operators while parsing a statement that has more than one operator performing operations in it. Operators with higher priorities are resolved first. But as one goes down the list, the priority decreases and hence their resolution.
+
+( * ) and ( / ) have higher precedence than ( + ) and ( - ) 
+
+Precedence and Associativity
+The associativity represents which operator has to solve first while going from left to right if two or more operators have the same precedence in the expression.
+
+Example:
+2 + 3 * 4 / 3 =  2 + (3 * 4) / 3  // 6
+
+The precedence of the multiply(*) and divide(/) operators is the same but due to associativity from left to right the multiply operator will be resolved first as it comes first when we go from left to right and hence the result will be 6.
